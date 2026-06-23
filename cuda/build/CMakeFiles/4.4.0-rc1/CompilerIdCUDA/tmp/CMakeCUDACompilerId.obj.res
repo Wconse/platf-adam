@@ -1,0 +1,1 @@
+-D__CUDA_ARCH__=750 -D__CUDA_ARCH_LIST__=750 -nologo -c -TP  -DCUDA_DOUBLE_MATH_FUNCTIONS -EHsc "-ID:/CUDAtoolkit/bin/../include" "-ID:/CUDAtoolkit/bin/../include/cccl"     "E:\Adam\Новая папка\cuda_adam\cuda\build\CMakeFiles\4.4.0-rc1\CompilerIdCUDA\tmp\CMakeCUDACompilerId.cudafe1.cpp" 

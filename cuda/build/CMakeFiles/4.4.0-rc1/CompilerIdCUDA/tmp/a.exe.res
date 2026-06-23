@@ -1,0 +1,1 @@
+-D__CUDA_ARCH_LIST__=750 -nologo "E:\Adam\Новая папка\cuda_adam\cuda\build\CMakeFiles\4.4.0-rc1\CompilerIdCUDA\tmp\a_dlink.obj" "E:\Adam\Новая папка\cuda_adam\cuda\build\CMakeFiles\4.4.0-rc1\CompilerIdCUDA\tmp\CMakeCUDACompilerId.obj" -link -INCREMENTAL:NO   "/LIBPATH:D:/CUDAtoolkit/bin/../lib/x64"  cudadevrt.lib  cudart.lib
